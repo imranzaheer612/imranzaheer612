@@ -3,7 +3,7 @@
 
 <br>
 
-![vd](/vi.jpg)
+![vd](/vi.png)
 
 <br>
 
