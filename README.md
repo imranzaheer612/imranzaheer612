@@ -7,13 +7,13 @@
 
 <br>
 
-- 🌱 I’m currently learning **Networking**
+- 🌱 Learning topics: **Networking, Cybersecurity, Web**
 
 - 👨‍💻 All of my projects are available at [https://github.com/imranzaheer612](https://github.com/imranzaheer612)
 
 - 📝 I regularly write articles on [https://theundersurfers.netlify.app](https://theundersurfers.netlify.app)
 
-- 💬 Ask me about **Web Development, Angualar, Python**
+- 💬 Ask me about **Web Development, Programming**
 
 - 📫 How to reach me **izaheer612@gmail.com**
 
