@@ -12,7 +12,7 @@ I'm an indie full-stack developer and tech enthusiast. All coding projects are b
       <a href="https://github.com/imranzaheer612?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/imranzaheer612?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="https://github.com/imranzaheer612?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Website" src="https://custom-icon-badges.demolab.com/website?style=for-the-badge&up_message=up
+         <img alt="My Website" title="Website" src="https://custom-icon-badges.demolab.com/website?style=for-the-badge&up_message=up
          &logo=website&url=https%3A%2F%2Ftheundersurfers.netlify.app%2F"/></a>
 
 <!-- ![Website](https://img.shields.io/website?style=for-the-badge&up_message=up&url=https%3A%2F%2Ftheundersurfers.netlify.app%2F) -->
@@ -39,6 +39,7 @@ I'm an indie full-stack developer and tech enthusiast. All coding projects are b
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
 #
 
 ### 📊 Stats
