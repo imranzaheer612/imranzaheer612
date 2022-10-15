@@ -15,8 +15,6 @@ I'm an indie full-stack developer and tech enthusiast. All coding projects are b
          <img alt="My Website" title="Website" src="https://custom-icon-badges.demolab.com/website?style=for-the-badge&up_message=up
          &logo=website&url=https%3A%2F%2Ftheundersurfers.netlify.app%2F"/></a>
 
-<!-- ![Website](https://img.shields.io/website?style=for-the-badge&up_message=up&url=https%3A%2F%2Ftheundersurfers.netlify.app%2F) -->
-
    </p>
 
 ---
