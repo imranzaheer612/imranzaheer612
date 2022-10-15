@@ -11,7 +11,7 @@ I'm an indie full-stack developer and tech enthusiast. All coding projects are b
          <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/imranzaheer612?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/imranzaheer612?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/imranzaheer612?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <a href="https://github.com/imranzaheer612?tab=repositories&sort=stargazers">
+      <a href="https://theundersurfers.netlify.app/">
          <img alt="My Website" title="Website" src="https://custom-icon-badges.demolab.com/website?style=for-the-badge&up_message=up
          &logo=website&url=https%3A%2F%2Ftheundersurfers.netlify.app%2F"/></a>
 
