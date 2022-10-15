@@ -7,7 +7,7 @@ I'm an indie full-stack developer and tech enthusiast. All coding projects are b
    <p align="left">
       <a href="https://github.com/imranzaheer612?tab=repositories">
          <img alt="repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a> 
-      <a href="https://github.com/imranzaheer612?tab=repositories">
+      <a href="https://twitter.com/ImranZaheer612">
          <img alt="mytwitter" title="Twitter" src="https://img.shields.io/twitter/follow/ImranZaheer612?label=%40imranzaheer612&logo=twitter&style=for-the-badge"/></a>
       <a href="https://github.com/imranzaheer612?tab=followers">
          <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/imranzaheer612?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
