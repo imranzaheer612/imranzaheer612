@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Creator)`**
 
-I'm an indie full-stack developer and tech enthusiast. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code. Love to work on new technologies and am always eager to learn new ones. Interested in Networks, Web, and System Designs.
+I'm an indie developer and tech enthusiast. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code. Love to work on new technologies and am always eager to learn new ones. Interested in Networks, Web, and System Designs.
 
    <p align="left">
       <a href="https://github.com/imranzaheer612?tab=repositories">
