@@ -43,7 +43,7 @@ I'm an indie developer and tech enthusiast. All coding projects are built from t
 
 ### 📊 Stats
 
-![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranzaheer612&show_icons=true&theme=gruvbox)
+<!-- ![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranzaheer612&show_icons=true&theme=gruvbox) -->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=imranzaheer612&theme=gruvbox&border_radius=4.5) -->
 
