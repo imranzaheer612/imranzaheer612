@@ -1,8 +1,8 @@
 # 🏄‍♂️ Imran Zaheer
 
-**`Digital Craftsman (Developer/Creator)`**
+**`Software Engineer (Developer/Creator)`**
 
-I'm an indie developer and tech enthusiast. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code. Love to work on new technologies and am always eager to learn new ones. Interested in Networks, Web, and System Designs.
+I’m an software developer and tech enthusiast. Working in C, Java, Dotnet and PostgreSQL Internals. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code. Love to work on new technologies and am always eager to learn new ones. Interested in Networks, System Designs and Database Internals.
 
    <p align="left">
       <a href="https://github.com/imranzaheer612?tab=repositories">
@@ -18,27 +18,6 @@ I'm an indie developer and tech enthusiast. All coding projects are built from t
 
    </p>
 
----
-
-### 🧰 Languages and Tools
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-<img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
-
 <!-- # -->
 
 <!-- ### 📊 Stats -->
@@ -51,8 +30,9 @@ I'm an indie developer and tech enthusiast. All coding projects are built from t
 
 <details>
  <summary><h3>👨‍💻 Imran's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, Unix, Linux, Networks and theory. And all the while, teaching myself android development with a dream to build my app, but that soon got overshadowed by my desire to excel in Computer Networking. After learning a lot about the networks I jumped towards ethical hacking and learned a lot of hacking techniques. After spending some time learning hacking I noticed that I enjoy more while building new things and then I took a deep dive into software development, Learned how web apps work, learned different frameworks, and software design patterns and still learning. 
-   
-   However, I had another desire to teach others. I do blogging in my free time. And soon will start a youtube channel and will try to give back to the society.
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, Unix, Linux, Networks and theory. And all the while, teaching myself android development with a dream to build my app, but that soon got overshadowed by my desire to excel in Computer Networking. After learning a lot about the networks I jumped towards ethical hacking and learned a lot of hacking techniques. After spending some time learning hacking I noticed that I enjoy more while building new things and then I took a deep dive into software development, Learned how web apps work, learned different frameworks, and software design patterns. Then I started working at a database company building database solution, so I started learning database internals and started contributing to postgres based opensource solutions.
 
-[website]: theundersurfers.netlify.app/
+<br/>
+<br/>
+   
+   I do blogging in my free time. I always try to give back to the community. My [website](theundersurfers.netlify.app/).
