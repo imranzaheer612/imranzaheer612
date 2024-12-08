@@ -1,8 +1,8 @@
 # 🏄‍♂️ Imran Zaheer
 
-**`Software Engineer (Developer/Creator)`**
+**`Software Engineer`**
 
-Software engineer and tech enthusiast. Worked on C, C++, Java, Dotnet, PostgreSQL Internals, PG Drivers development and PG products packaging. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code. I love working on new tech, Networks, Database Internals, and System Designs.
+Worked on C, Java, Dotnet, PostgreSQL Internals, PG Drivers, RHEL/Win Btirock/RPM packaging, Pgpool (High Availability) and Graph Database. Love working on Networks, Database Internals and System Designs.
 
    <p align="left">
       <a href="https://github.com/imranzaheer612?tab=repositories">
